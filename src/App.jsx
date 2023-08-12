@@ -1,12 +1,16 @@
 import './App.css';
-import Superheros from './components/Superheros';
+import {Link} from 'react-router-dom';
+import CustomRoutes from './CustomRoutes';
 
 function App() {
 
   return (
-    <>
-      <Superheros />
-    </>
+    <div>
+      <h2 className="">
+        <Link to="/">SUPERHEROES</Link>
+      </h2>
+      <CustomRoutes />
+    </div>
   )
 }
 

@@ -37,7 +37,7 @@ h3 {
   flex-wrap: wrap;
   flex-direction: row;
 }
-.power-stat h3 {
+.power-stat h4 {
   color: rgb(254, 9, 9);
   width: 40%;
   margin: auto;
@@ -68,7 +68,7 @@ h3 {
     width: 98%;
     margin: auto;
   }
-  .power-stat h3 {
+  .power-stat h4 {
     width: 45%;
   }
 }

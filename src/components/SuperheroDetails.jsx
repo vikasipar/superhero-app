@@ -51,10 +51,10 @@ function SuperheroDetails() {
                     </div>
                     <h3>Occupation : {info.work}</h3>
                     <div className='power-stat'>
-                        <h3>Intelligence : {info.intelligence}</h3>
-                        <h3>Power : {info.power}</h3>
-                        <h3>Strength : {info.strength}</h3>
-                        <h3>Speed : {info.speed}</h3>
+                        <h4>Intelligence : {info.intelligence}</h4>
+                        <h4>Power : {info.power}</h4>
+                        <h4>Strength : {info.strength}</h4>
+                        <h4>Speed : {info.speed}</h4>
                     </div>
                 </div>
                 <div className='image'> 

@@ -1,6 +1,11 @@
-## [live demo](https://reactjs-superhero-app.vercel.app/)
+## Superhero App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### React Props | React Router | React Hooks - useState, useEffect
+#### live demo: [click here](https://reactjs-superhero-app.vercel.app/)
+
+<br>
+
+![superhero app](https://github.com/vikasipar/superhero-app/assets/98696526/d9a23654-bf1a-40ef-b284-c37833c7c2ec)
 
 Currently, two official plugins are available:
 

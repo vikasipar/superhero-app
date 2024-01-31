@@ -1,7 +1,7 @@
 ## Superhero App
 
 ### React Props | React Router | React Hooks - useState, useEffect
-#### live demo: [click here](https://reactjs-superhero-app.vercel.app/)
+#### live demo: [click here](https://mysuperheros.vercel.app/)
 
 <br>
 
